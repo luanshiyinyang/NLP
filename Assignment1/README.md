@@ -1,0 +1,13 @@
+# Assignment 1
+- q1
+	- **a** 证明softmax常数不变性
+	- **b** Python实现softmax
+- q2
+	- **a** sigmoid梯度推导
+	- **b** CrossEntropy梯度推导
+	- **c** 单隐层神经网络梯度推导
+	- **d** 参数数量计算
+	- **e** Python实现sigmoid
+	- **f** Python实现梯度检验
+	- **g** Python实现前向传播和后向传播
+- q3
