@@ -1,0 +1,16 @@
+# Assignment 1
+- q1
+	- **a** softmax
+	- **b** 交叉熵
+	- **c** Placeholders & Feed Dictionaries
+	- **d** Softmax & CE Loss
+	- **e** Training Optimizer
+- q2
+    - **a** 手工完成Transition-Based Dependency Parsing
+    - **b** 复杂度
+    - **c** 初始化 & parse_step
+    - **d** Minibatch Parsing
+    - **e** Xavier初始化
+    - **f** Dropout
+    - **g** Adam Optimizer
+    - **h** 实现Neural Dependency Parser
