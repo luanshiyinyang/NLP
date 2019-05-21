@@ -14,3 +14,8 @@
     - **f** Dropout
     - **g** Adam Optimizer
     - **h** 实现Neural Dependency Parser
+- q3
+	- **a** 困惑度和交叉熵损失
+	- **b** 梯度推导
+	- **c** 随时间反向传播
+	- **d** 计算复杂度
