@@ -1,0 +1,21 @@
+# Assignment 3
+- A window into NER
+	- **a** 概念
+	- **b** 维度和复杂度
+	- **c** 实现基线模型
+	- **d** 分析结果
+- RNN
+	- **a** RNN的参数比基线模型多多少？
+	- **b** 损失函数与F1
+	- **c** 实现RNN单元
+	- **d** RNN补零
+	- **e** 实现RNN
+	- **f** 训练
+	- **g** 缺点
+- GRU
+	- **a** latch
+	- **b** toggle
+	- **c** 实现GRU单元
+	- **d** 使用TF内置的RNN模型学习latch
+	- **e** 分析图像
+	- **f** 运行第二题中的NER模型

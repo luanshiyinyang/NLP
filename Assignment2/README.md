@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 - q1
 	- **a** softmax
 	- **b** 交叉熵
